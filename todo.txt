@@ -1,0 +1,2 @@
+1. Diagram dynamiczny - Glass dataset
+2. Barplot z różnymi kolorami
